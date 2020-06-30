@@ -31,6 +31,7 @@ function loadAssets() {
     GameInstance.load.image('background', 'assets/background.png');
     GameInstance.load.image('daexcelview', 'assets/daexcelview.png');
     GameInstance.load.image('spammaton01', 'assets/events/spammaton01.png');
+    GameInstance.load.image('navigation', 'assets/navigation.png');
 };
 
 
